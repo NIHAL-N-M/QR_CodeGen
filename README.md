@@ -11,3 +11,9 @@ Enter any text or URL, generate a QR code instantly, and download it as a PNG im
 - ✅ **Responsive Design** for all devices
 - ✅ **Smooth Animations** for better UX
 - ✅ **Error Handling** for empty inputs
+
+## 🖥 Demo
+ 
+[Live Demo] (https://qrimg.netlify.app)
+
+---
